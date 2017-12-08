@@ -1,2 +1,4 @@
 .DS_Store
 lib
+.vscode
+app/app.config.js
